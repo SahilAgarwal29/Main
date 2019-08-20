@@ -1,0 +1,14 @@
+           Sahil Eatery
+          Class 12B, RFS
+          +91 9999999999
+             Invoice
+            2019-05-17
+
+--------------------------------------------
+S.No. Products                       Amount
+--------------------------------------------
+1     Cheese Pizza                   400
+2     Cheese Pizza                   400
+
+Total: Rs.800
+Thanks for visiting.

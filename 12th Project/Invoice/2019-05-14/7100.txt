@@ -1,0 +1,13 @@
+           Sahil Eatery
+          Class 12B, RFS
+          +91 9999999999
+             Invoice
+            2019-05-17
+
+--------------------------------------------
+S.No. Products                       Amount
+--------------------------------------------
+1     Sahil                          100
+
+Total: Rs.100
+Thanks for visiting.
